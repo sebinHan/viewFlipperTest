@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">viewFlipperTest</string>
+    <string name="but_text_pre">이전 화면</string>
+    <string name="but_text_next">다음 화면</string>
 </resources>
